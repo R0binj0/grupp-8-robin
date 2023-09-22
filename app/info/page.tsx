@@ -2,10 +2,10 @@ import Posts from "../blog/components/Posts";
 
 const Info = () => {
     return ( 
-        <div>
+        <div className="flex flex-col align-center justify-center text-center">
             <div className='pt-6 mx-auto'>
                 <div className="flex flex-col align-center justify-center">
-                    <img className="fixed-size-image rounded-2xl" src="infoImage.png" alt="info image" />
+                    <img className="fixed-size-image rounded-2xl" src="/img/infoImage.png" alt="info image" />
                 </div>
             </div>
             <h2 className="text-6xl text-black mt-[10px] mb-[10x]">Beebide ja väikelaste esmaabi</h2>
