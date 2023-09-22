@@ -9,7 +9,7 @@ export default function ListItem({ post }: Props) {
     const {id, title, description, icon} = post
   return (
     <li className='mt-2 p-2 border-4 rounded-md border-gray-200 border-double'>
-      <Link prefetch href={`blog/posts/${id}`}>
+      <Link prefetch href={`info/posts/${id}`}>
         <div className='text-8xl pb-4'>
           <i className={icon}></i>
         </div>
