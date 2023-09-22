@@ -45,7 +45,7 @@ export default async function Post({params}: { params: {postId: string}}) {
             <article>
                 <section className='post-section' dangerouslySetInnerHTML={{__html: contentHtml}}></section>
                 <p className='text-3xl'>
-                    <Link prefetch href="/info">Back</Link>
+                    <Link prefetch href="/info">Tagasi</Link>
                 </p>
             </article>
         </main>
