@@ -4,8 +4,10 @@ icon: 'fa-solid fa-spa'
 description: 'Et laps saaks õues ja aias turvaliselt mängida ja te ei peaks
 tal igal sammul kõrval olema, peab ka need paigad üle
 vaatama ja ohutuks tegema'
-size: ""
 ---
+
+
+![laps](/img/maja.png)
 
 ### kokkuvõttev lause - Et laps saaks õues ja aias turvaliselt mängida ja te ei peaks tal igal sammul kõrval olema, peab ka need paigad üle vaatama ja ohutuks tegema
 

@@ -2,8 +2,10 @@
 title: 'Turvaliselt vankris ja kärus'
 icon: 'fa-solid fa-baby-carriage'
 description: 'Vankri või käruga õue minnes?'
-size: ""
 ---
+
+
+![laps](/img/vanker.png)
 
 Vankri või käruga õue minnes?
 

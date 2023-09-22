@@ -3,8 +3,10 @@ title: 'Turvaline kodu'
 icon: 'fa-solid fa-house'
 description: 'Vigastuste riski vähendamiseks on palju võimalusi, mis
 on lihtsalt rakendatavad igas kodu'
-size: ""
 ---
+
+
+![laps](/img/family.png)
 
 Katke kodus kõik elektrikontaktid erilise kattega, et laps
 ei saaks elektrilööki, kui ta torkab sinna sõrme või mõne

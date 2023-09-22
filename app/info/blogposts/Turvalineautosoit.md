@@ -4,11 +4,11 @@ icon: 'fa-solid fa-car'
 description: '
 Peaaegu kõik lapsed armastavad autosõitu, kuid kõikidest
 turvareeglitest tuleb kinni pidada ka lühisõidu puhul.'
-size: ""
 ---
 
 ### Peaaegu kõik lapsed armastavad autosõitu, kuid kõikidest turvareeglitest tuleb kinni pidada ka lühisõidu puhul.
 
+![laps](/img/family-car-drawing-vector-114836231.png)
 
 Väikelaps peab istuma tagaistmel talle sobivas turvatoolis, mis on kinnitatud istme külge. Turvatoolis peab
 laps olema kinnitatud talle sobiva pikkusega rihmadega.

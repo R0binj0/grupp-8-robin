@@ -8,6 +8,8 @@ reeglid, mis aitavad ära hoida igapäevaseid hädaolukordi:'
 size: ""
 ---
 
+![laps](/img/beebi.png)
+
 Vigastuste vältimise üldised reeglid
 kokkuvõttev tekst -
 Kõiki ohte on võimatu ette näha, kuid pidage alati meeles
