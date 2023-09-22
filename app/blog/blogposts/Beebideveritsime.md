@@ -1,7 +1,7 @@
 ---
-title: 'Beebode veritsime'
+title: 'Beebide veritsime'
+logo: 'fa-solid fa-baby'
 description: '*Beebide veritsimine* ehk neonataalne veritsus on meditsiiniline seisund, kus vastsündinud beebi eritab verd seedekanalist või seedetraktist. See võib olla murettekitav sümptom, mis vajab kiiret meditsiinilist hindamist ja ravi. Selles aruandes uurime beebe veritsimise põhjuseid, sümptomeid, diagnoosimist ning ravi võimalusi.'
-icon: "fa-solid fa-droplet"
 ---
 
 

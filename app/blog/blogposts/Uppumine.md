@@ -1,14 +1,14 @@
 ---
 title: 'Uppumine'
-
+logo: 'fa-solid fa-person-dots-from-line'
 description: 'Uppumine on tõsine hädaolukord ja laste esmaabi andmine nõuab kiiret reageerimist. Siin on sammud, mida tuleks järgida, kui laps on uppumisohtu sattunud'
 ---
 
-# Hädavajalik Teave: Kuidas Reageerida Lapse Uppumisohule
+### Hädavajalik Teave: Kuidas Reageerida Lapse Uppumisohule
 
 Lapse ohutus vees on ülioluline, sest isegi madalas vees võib uppumisoht varitseda. Väikelapsi tuleb veekeskkonnas hoolikalt jälgida ja olla valmis tegutsema, kui midagi halba peaks juhtuma. Selles postituses räägime, kuidas reageerida lapse uppumisohule ning kuidas anda esmaabi.
 
-## Uppumisohu Tunnused
+## Uppumisohu tunnused
 
 Väikelaps võib uppuda isegi madalas vees või vannis, kuna ta ei oska end ise üles upitada. Mõnikord piisab juba 10 cm sügavusest veest, et oht tekiks. Kui te märkate, et laps on hätta sattunud vees, järgige järgmisi samme:
 
@@ -18,7 +18,7 @@ Väikelaps võib uppuda isegi madalas vees või vannis, kuna ta ei oska end ise 
 
 3. **Kutsuge abi:** Paluge, et keegi kutsuks kiirabi (helistage 112), isegi kui kõik tundub korras olevat.
 
-## Esmaabi Uppumise Korral
+## Esmaabi uppumise korral
 
 Kui laps on uppumisest teadvuse kaotanud ja ei hinga, alustage kohe kunstliku hingamisega suust suhu. Jätkake seda seni, kuni laps ise hingama hakkab. Kui pole pulssi, alustage kohe südamemassaažiga!
 

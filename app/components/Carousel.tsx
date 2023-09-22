@@ -44,8 +44,8 @@ const Carousel = () => {
                     ))}
                 </div>
             </div>
-            <h2 className="text-6xl text-black mt-[10px] mb-[10x]">Beebide ja väikelaste esmaabi</h2>
-            <p className="text-2xl text-black mt-[10px] mb-[10x]">Õppige oskusi beebi või lapse abistamiseks hädaolukorras</p>
+            <h2 className="text-6xl text-black mt-[10px] mb-[10x]">Ennnetav esmaabi</h2>
+            <p className="text-2xl text-black mt-[10px] mb-[10x]">Kuidas hädaolukordi ja vigastusi ära hoida</p>
         </div>
     );
 };

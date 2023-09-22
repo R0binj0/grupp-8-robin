@@ -1,7 +1,7 @@
 ---
 title: 'Ninaverejooks'
+logo: 'fa-solid fa-droplet'
 description: 'Laste ninaverejooks, tuntud ka kui ninaverejooks või epistaksis, võib olla murettekitav, kuid enamasti on see ohutu ja saab kodus lihtsate meetoditega peatada. Allpool on sisejuhatus selle kohta, kuidas käituda, kui lapsel esineb ninaverejooks:'
-icon: "fa-solid fa-droplet"
 ---
 
 **Ninaverejooksu esmaabi:**
