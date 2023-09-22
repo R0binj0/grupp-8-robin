@@ -22,9 +22,9 @@ const Carousel = () => {
     };
 
     const images = [
-        'Img/Kuvatõmmis 2023-09-21 095305.png',
-        'img/depositphotos_7277917-stock-photo-pediatrician_1629234070.jpg',
-        'Img/pediatric-hospital.jpg',
+        'public/img/sliderImage1.jpg',
+        'public/img/sliderImage2png',
+        'public/img/sliderImage3.jpg',
     ];
 
     return (
