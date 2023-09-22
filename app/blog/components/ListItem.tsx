@@ -13,8 +13,8 @@ export default function ListItem({ post }: Props) {
         <div className='text-5xl sm:text-8xl pb-4'>
           <i className={icon}></i>
         </div>
-        <h1 className='font-bold text-[10px] sm:text-lg'>{title}</h1>
-        <p className='pt-4 text-sm hidden sm:block'>{description}</p>
+        <h1 className='font-bold text-lg'>{title}</h1>
+        <p className='pt-4 text-sm'>{description}</p>
       </Link>
     </li>
   )
