@@ -23,7 +23,7 @@ const Carousel = () => {
 
     const images = [
         '/img/sliderImage1.jpg',
-        '/img/sliderImage2png',
+        '/img/sliderImage2.png',
         '/img/sliderImage3.jpg',
     ];
 
