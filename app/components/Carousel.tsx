@@ -22,9 +22,9 @@ const Carousel = () => {
     };
 
     const images = [
-        'public/img/sliderImage1.jpg',
-        'public/img/sliderImage2png',
-        'public/img/sliderImage3.jpg',
+        '/img/sliderImage1.jpg',
+        '/img/sliderImage2png',
+        '/img/sliderImage3.jpg',
     ];
 
     return (
