@@ -3,6 +3,7 @@ title: 'Turvaline kodu'
 icon: 'fa-solid fa-house'
 description: 'kokkuvõttev lause Vigastuste riski vähendamiseks on palju võimalusi, mis
 on lihtsalt rakendatavad igas kodu'
+size: ""
 ---
 
 Katke kodus kõik elektrikontaktid erilise kattega, et laps

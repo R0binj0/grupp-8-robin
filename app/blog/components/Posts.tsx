@@ -7,7 +7,7 @@ export default function Posts() {
   const posts = getSortedPostsData()
   return (
     <section className='flex items-center justify-center my-14 mx-auto flex-col text-black'>
-      <ul className='grid grid-cols-3 gap-8 w-3/4 pb-4'>
+      <ul className='grid grid-cols-3 grid-rows-3 grid-flow-row gap-8 w-3/4 pb-4'>
         <Link prefetch href="info" className='mt-2 p-2 border-4 rounded-md border-gray-200 border-double'>
             <div className='text-8xl pb-4'>
               <i className="fa-solid fa-info"></i>

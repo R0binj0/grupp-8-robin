@@ -4,6 +4,7 @@ icon: 'fa-solid fa-car'
 description: 'kokkuvõttev lause -
 Peaaegu kõik lapsed armastavad autosõitu, kuid kõikidest
 turvareeglitest tuleb kinni pidada ka lühisõidu puhul.'
+size: ""
 ---
 
 ### kokkuvõttev lause - Peaaegu kõik lapsed armastavad autosõitu, kuid kõikidest turvareeglitest tuleb kinni pidada ka lühisõidu puhul.

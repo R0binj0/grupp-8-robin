@@ -5,6 +5,7 @@ description: 'Vigastuste vältimise üldised reeglid
 kokkuvõttev tekst -
 Kõiki ohte on võimatu ette näha, kuid pidage alati meeles
 reeglid, mis aitavad ära hoida igapäevaseid hädaolukordi:'
+size: ""
 ---
 
 Vigastuste vältimise üldised reeglid
