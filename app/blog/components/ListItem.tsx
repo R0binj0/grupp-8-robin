@@ -10,11 +10,11 @@ export default function ListItem({ post }: Props) {
   return (
     <li className='mt-2 p-2 border-4 rounded-md border-gray-200 border-double'>
       <Link prefetch href={`blog/posts/${id}`}>
-        <div className='text-8xl pb-4'>
+        <div className='text-5xl sm:text-8xl pb-4'>
           <i className={icon}></i>
         </div>
-        <h1 className='font-bold text-lg'>{title}</h1>
-        <p className='pt-4 text-md'>{description}</p>
+        <h1 className='font-bold text-[10px] sm:text-lg'>{title}</h1>
+        <p className='pt-4 text-sm hidden sm:block'>{description}</p>
       </Link>
     </li>
   )

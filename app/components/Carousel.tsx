@@ -29,7 +29,7 @@ const Carousel = () => {
 
     return (
         <div className="flex flex-col align-center justify-center text-center">
-            <div className='pt-6 mx-auto'>
+            <div className='hidden sm:block pt-6 mx-auto'>
                 <div className="flex flex-col align-center justify-center">
                     {images.map((src, index) => (
                         <img

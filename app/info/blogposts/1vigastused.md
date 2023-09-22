@@ -1,5 +1,5 @@
 ---
-title: 'Vigastuste vältimise üldised reeglid'
+title: 'Vigastuste vältimine'
 icon: 'fa-solid fa-droplet'
 description: 'Vigastuste vältimise üldised reeglid
 kokkuvõttev tekst -
