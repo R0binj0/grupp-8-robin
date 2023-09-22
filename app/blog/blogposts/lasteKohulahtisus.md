@@ -1,6 +1,6 @@
 ---
 title: 'Kõhulahtisus'
-logo: 'fa-solid fa-virus-covid'
+icon: 'fa-solid fa-virus-covid'
 description: 'Lapse oksendamine ja kõhulahtisus võivad olla vanematele murettekitavad. See juhend aitab mõista nende sümptomite põhjuseid ja pakkuda soovitusi, kuidas toimida.'
 ---
 

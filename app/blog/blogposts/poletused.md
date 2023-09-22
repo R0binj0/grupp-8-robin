@@ -1,6 +1,6 @@
 ---
 title: 'Laste põletused'
-logo: 'class="fa-solid fa-fire'
+icon: 'fa-solid fa-fire'
 description: 'Põletus on nahakahjustus, mis tekib siis, kui nahk puutub kokku liigse kuumuse, kemikaalide jne'
 ---
 

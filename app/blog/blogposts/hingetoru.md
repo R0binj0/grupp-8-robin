@@ -1,6 +1,6 @@
 ---
 title: 'Hingetoru'
-logo: 'fa-solid fa-lungs'
+icon: 'fa-solid fa-lungs'
 description: 'Väikelapsed on uudishimulikud ja panevad sageli kõik leitud esemed suhu. Pisikesed esemed, nagu pärlid, pähklid, herned või LEGO klotsid, võivad kergesti neelamisel sattuda hingetorusse, põhjustades lapsele hingamisraskusi. Hingetorusse võib sattuda ka toitu, eriti kui laps söömise ajal nutab või räägib.'
 ---
 

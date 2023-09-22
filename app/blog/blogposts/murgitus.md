@@ -1,6 +1,6 @@
 ---
 title: 'Mürgistus ja söövitus'
-logo: 'fa-solid fa-skull-crossbones'
+icon: 'fa-solid fa-skull-crossbones'
 description: 'Mürgistuse korral on lapse päästmine tihti minutite küsimus. Mitmed ained, näiteks puhastusained, imenduvad
 kiiresti kehasse või söövitavad suu, kõri ja söögitoru limaskesta. Enamuse mürgistusi põhjustavad ravimid (40%) ja majapidamise kemikaalid (25%).'
 ---

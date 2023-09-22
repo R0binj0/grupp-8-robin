@@ -1,6 +1,6 @@
 ---
 title: 'Uppumine'
-logo: 'fa-solid fa-person-dots-from-line'
+icon: 'fa-solid fa-person-dots-from-line'
 description: 'Uppumine on tõsine hädaolukord ja laste esmaabi andmine nõuab kiiret reageerimist. Siin on sammud, mida tuleks järgida, kui laps on uppumisohtu sattunud'
 ---
 

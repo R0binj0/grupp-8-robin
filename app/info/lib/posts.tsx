@@ -20,6 +20,7 @@ export function getSortedPostsData(){
             title: matterResult.data.title,
             description: matterResult.data.description,
             icon: matterResult.data.icon,
+            size: matterResult.data.size
         }
 
         return blogPost
@@ -44,6 +45,7 @@ export async function getPostData(id: string) {
         title: matterResult.data.title,
         description: matterResult.data.description,
         icon: matterResult.data.icon,
+        size: matterResult.data.size,
         contentHtml,
     }
 

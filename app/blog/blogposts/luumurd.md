@@ -1,6 +1,6 @@
 ---
 title: 'Luumurd'
-logo: 'fa-solid fa-bone'
+icon: 'fa-solid fa-bone'
 description: 'Luumurrud on üsna tavalised vigastused lastel, kuna nende luud arenevad ja kasvavad. Luumurrud võivad juhtuda mängides, sporti tehes või isegi igapäevaste tegevuste käigus'
 ---
 

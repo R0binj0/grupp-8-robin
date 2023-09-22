@@ -1,6 +1,6 @@
 ---
 title: 'Palavik ja Ohutusnõuanded'
-logo: 'fa-solid fa-temperature-high'
+icon: 'fa-solid fa-temperature-high'
 description: 'Palavikuks loetakse kehatemperatuuri üle 38°C. Palavik on organismi kaitsereaktsioon, mida ei ole vaja alati ravida. Palaviku tõustes hävivad haigustekitajad ja nende mürgid organismis kiiremini, sest palavik aeglustab viiruste ja bakterite kasvamist ning paljunemist. Enamasti on palaviku põhjuseks iseenesest mööduv viirusinfektsioon, mis ei ole lapsele ohtlik. Mõnikord tõuseb kehatemperatuur vaktsineerimise järgselt, imikutel ka üleliigsete riiete tõttu. Samas võib palavik viidata raskele haigusele ning seetõttu on oluline osata last palaviku perioodil jälgida ja põetada.'
 ---
 

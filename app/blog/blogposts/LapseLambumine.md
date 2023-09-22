@@ -1,6 +1,6 @@
 ---
 title: 'Lämbumine'
-logo: 'fa-solid fa-baby'
+icon: 'fa-solid fa-baby'
 description: 'Lapse lämbumine ei ole ainult tõsine mure, vaid ka vanemate ja hooldajate üks suurimaid hirme. See särav juhend mitte ainult ei valgusta teid, vaid annab ka konkreetseid samme, mida järgida!'
 ---
 

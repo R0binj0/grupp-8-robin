@@ -3,4 +3,5 @@ type Blogpost = {
     title:string,
     description:string,
     icon: string,
+    size: string
 }

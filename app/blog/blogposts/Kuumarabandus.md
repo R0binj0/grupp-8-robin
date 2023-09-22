@@ -1,6 +1,6 @@
 ---
 title: 'Kuumarabandus'
-logo: 'fa-solid fa-sun'
+icon: 'fa-solid fa-sun'
 description: 'Väikelapsed kuumenevad üle suhteliselt kiiresti. Kuuma ilmaga, päikese käes, saunas või rohkel rahmeldamisel võib tekkida kuumarabandus.'
 ---
 
