@@ -1,16 +1,18 @@
 'use client'
 
+import Link from "next/link";
+
 export default function Navbar() {
 
   return (
-    <header>
-      <img src="Img/images__1_-removedbg-preview.png" alt="Logo" width="100" />
-      <h1>Infot beebide ja väikelaste kohta</h1>
-      <div className="emergency-box">
-        Hospital <br></br>
-        Hädaabi number: <a className="color-white underline-none" href="tel:+112"><span>112</span></a> <br></br>
-        Perearsti infotelefon: <a className="color-white underline-none" href="tel:+1220"><span>1220</span></a>
+    <div className=" flex justify-between align-center bg-blue-500 border-b border-gray-200 text-white p-4 text-right">
+      <Link rel="stylesheet" href="/">
+        <img  className='h-28' src="Img/logo2-removebg-preview 2.png" alt="logo" />
+      </Link>
+      <div className="ml-4 flex flex-col justify-center align-center">
+          <p className="text-2xl font-bold"><a href="https://www.112.ee" className="text-white">HÄDAABI NUMBER 112</a></p>
+          <p className="text-xl"><a href="https://1220.ee" className="text-white">PEREARSTI INFOTELEFON 1220</a></p>
       </div>
-    </header>
+    </div>
   );
 }

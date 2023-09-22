@@ -2,7 +2,7 @@ import Posts from "./components/Posts"
 
 export default function Home() {
   return (
-    <main className="mx-auto">
+    <main>
       <Posts></Posts>
     </main>
   )
