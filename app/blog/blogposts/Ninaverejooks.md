@@ -19,7 +19,7 @@ B. Kui laps on teadvuseta:
 - Kui ninaverejooks tekib limaskestade kuivamise tõttu, lülitage sisse magamise ajal lapse toas õhuniisutaja. 
 - Ninaõõne limaskesta parandamiseks võite seda määrida vaseliiniga.
 
-![Ninaverijooks pild](img/269273098-3a54e6f8-5b46-4e1a-bf83-97f8c47cd834.png)
+![Ninaverijooks pild](../../../public/img/269273098-3a54e6f8-5b46-4e1a-bf83-97f8c47cd834.png)
 
 **Arstiga tasuks konsulteerida juhul, kui:**
 - Verejooks tekib sageli.

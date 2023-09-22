@@ -47,4 +47,4 @@ Ka treeningutesse ja kehalise kasvatuse tundidesse naasmisel soovitatakse astmel
 
 Kui sümptomid uuesti tekivad, tuleb koormust vähendada. Alati treeneriga nõu pidada ja läbi rääkida lähtuda reeglist: “mitte liiga palju ja mitte liiga vähe!“
 
-![peavigastus](img/269273098-3a54e6f8-5b46-4e1a-bf83-97f8c47cd834.png)
+![peavigastus](../../../public/img/269291257-2eb8cd65-88b4-4ea5-8465-0e36a6ddfcfe.png)
