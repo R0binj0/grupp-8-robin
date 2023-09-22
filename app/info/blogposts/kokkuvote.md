@@ -10,7 +10,7 @@ kiire asjakohane esmane abi.'
 size: "w-full"
 ---
 
-Kokkuvõte: Ärge kunagi ise riskige, te peate olema
+Ärge kunagi ise riskige, te peate olema
 lapsele eeskujuks. Laps õpib täiskasvanutelt, kuidas
 käituda, ja matkib neid!
 Imik ja väikelaps ei oska hinnata ohtusid ning vajab pidevalt tähelepanu. Õnnetusi on võimalik ära hoida, kohandades last ümbritsevat keskkonda turvalisemaks.

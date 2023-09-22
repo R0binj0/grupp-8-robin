@@ -1,11 +1,10 @@
 ---
 title: 'Turvaliselt vankris ja kärus'
 icon: 'fa-solid fa-baby-carriage'
-description: 'kokkuvõttev tekst Vankri või käruga õue minnes?'
+description: 'Vankri või käruga õue minnes?'
 size: ""
 ---
 
-kokkuvõttev tekst -
 Vankri või käruga õue minnes?
 
 ## kogu tekst:

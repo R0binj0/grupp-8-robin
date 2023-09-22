@@ -1,13 +1,13 @@
 ---
 title: 'Turvaline autosõit'
 icon: 'fa-solid fa-car'
-description: 'kokkuvõttev lause -
+description: '
 Peaaegu kõik lapsed armastavad autosõitu, kuid kõikidest
 turvareeglitest tuleb kinni pidada ka lühisõidu puhul.'
 size: ""
 ---
 
-### kokkuvõttev lause - Peaaegu kõik lapsed armastavad autosõitu, kuid kõikidest turvareeglitest tuleb kinni pidada ka lühisõidu puhul.
+### Peaaegu kõik lapsed armastavad autosõitu, kuid kõikidest turvareeglitest tuleb kinni pidada ka lühisõidu puhul.
 
 
 Väikelaps peab istuma tagaistmel talle sobivas turvatoolis, mis on kinnitatud istme külge. Turvatoolis peab
