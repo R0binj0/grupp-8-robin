@@ -1,5 +1,5 @@
 ---
-title: 'Väikelaste peavigastused'
+title: 'Peatraumad'
 icon: 'fa-solid fa-brain'
 description: 'on peaga seotud traumaatilise sündmuse tagajärjel tekkinud ajufunktsiooni(de) häire või kahjustus. Peatrauma tabab kõige sagedamini lapsi (eriti alla viieaastaseid), noori (15−24a) ja eakaid üle 75a. Peatraumade arv on viimasel aastakümnendil tõusnud. Näiteks on sellel ajaperioodil noorte spordist põhjustatud peatraumade arv erakorralise meditsiini osakondades kasvanud 40%.'
 ---
